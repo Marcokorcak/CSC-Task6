@@ -14,6 +14,8 @@
 
 ## Extra Features
 
+* Hover feature that enlarges the book object before you click it 
+* "Scroll up" button at the bottom right of the page that takes the user to the top of the page when clicked 
 
 ## Screenshots
 
